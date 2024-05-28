@@ -1,0 +1,5 @@
+train: C:\Users\user\Desktop\ML_CV\data\starting_dataset
+val: C:\Users\user\Desktop\ML_CV\data\starting_dataset
+
+nc: 1
+names: ['defect']

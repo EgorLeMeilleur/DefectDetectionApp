@@ -1,0 +1,5 @@
+train: C:\Users\user\Desktop\ML_CV\data\aug_dataset\train
+val: C:\Users\user\Desktop\ML_CV\data\aug_dataset\val
+
+nc: 1
+names: ['defect']
