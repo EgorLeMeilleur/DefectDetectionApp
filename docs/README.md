@@ -15,7 +15,7 @@
 
 1. Склонировать репозиторий
     ```sh
-    git clone https://github.com/egorlemeilleur/defect_detection_app.git
+    git clone https://github.com/egorlemeilleur/DefectDetectionApp.git
     ```
 2. Откройте проект (пример для Visual Studio):
     ```sh
@@ -29,7 +29,7 @@
 
 ## Установка приложения
 Для установки необходим только установленный Python 3.x 
-1. Скачайте установщик с [releases page](https://github.com/egorlemeilleur/defect_detection_app/releases)
+1. Скачайте установщик с [releases page](https://github.com/egorlemeilleur/DefectDetectionApp/releases)
 2. Запустите файл `DefectDetectionAppInstaller.exe` и следуйте инструкциям. Завершение установки может занять много времени, так как устанавливаются необходимые библиотеки в venv
 3. Запустите файл `DefectDetectionApp.exe` в папке установки
 
